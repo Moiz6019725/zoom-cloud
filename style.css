@@ -292,6 +292,9 @@ footer{
     nav {
         top: 0px;
     }
+    .navLeft img{
+        max-width:70px;
+    }
 
     .navLeft ul {
         display: none;
