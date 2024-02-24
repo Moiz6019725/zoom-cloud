@@ -313,6 +313,9 @@ footer{
         min-width:90%;
         padding:10px;
     }
+    .sec1Left span{
+        display:flex;
+        flex-direction:column;
     .sec1Right{
         height:50vh;
         width:100%;
