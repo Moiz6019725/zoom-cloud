@@ -306,9 +306,7 @@ footer{
     .navRight button:nth-child(1),.navRight button:nth-child(2)
     {
         padding:2px 5px;
-        border-radius:20px;
-        font-size:14px;
-        color:white;
+        border-radius:20px
     }
 
     .navLeft ul li {
