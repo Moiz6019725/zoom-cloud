@@ -119,6 +119,7 @@ nav li:hover {
     display: flex;
     align-items: center;
     position: relative;
+    background-color:red;
 }
 .sec1Left,.sec1Right{
     width:50%;
