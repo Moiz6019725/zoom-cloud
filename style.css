@@ -1,8 +1,8 @@
 body {
     margin: 0;
     padding: 0;
-    height: 100max;
-    width: 100vmin;
+    height: 100vh;
+    width: 100vw;
     font-family: Arial, Helvetica, sans-serif;
     overflow-x: hidden;
 }
