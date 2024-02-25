@@ -120,8 +120,7 @@ nav li:hover {
 }
 .sec1{
     max-width:90%;
-    max-height:80vh;
-    margin: auto 0px auto auto;
+    margin: 0px auto 0px 0px;
     display: flex;
     align-items: center;
     position: relative;
@@ -131,7 +130,7 @@ nav li:hover {
 }
 .sec1Right{
     position: relative;
-    height:80vh;
+    height:40vh;
     background-color: rgb(247, 247, 248);
 }
 .sec1Left h1{
